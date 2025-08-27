@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-container{
+    margin: 23px 30px;
+}
+
+.links {
+    font-size: 13px;
+    color: #565959;
+    display: block;
+    padding: 0px 0px 10px 0px ;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 310px;
+}
+
+.author-link{
+    color:#007185;
+}
+
+.cat-head{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.title {
+    font-weight: lighter;
+}
+
+article {
+    display: block;
+    font-size: 17px;
+    padding: 0px 0px 15px 0px;
+}
+
+
+
+
