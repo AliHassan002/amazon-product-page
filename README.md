@@ -15,7 +15,7 @@ A responsive Amazon product page clone built with HTML, CSS, and Vite. This proj
 
 ## 🚀 Live Demo
 
-**🌐 Live Project**: [View Live Amazon Product Page](https://business-card-ali.netlify.app/)
+**🌐 Live Project**: [View Live Amazon Product Page](https://amzon-product-page.netlify.app/)
 
 The product page displays:
 
@@ -164,6 +164,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - **LinkedIn**: [Ali Hassan](https://www.linkedin.com/in/ali-hassan-9ba69220b/)
 - **Location**: Lahore, Pakistan
 - **Role**: Full Stack Developer
+
+## 📚 Project Origin
+
+This project was created as part of the **Pro Developer Path** on [Scrimba.com](https://scrimba.com/). It's a solo project built from scratch, demonstrating the skills learned through their comprehensive web development curriculum.
+
+**Course**: [Learn HTML & CSS](https://scrimba.com/learn-html-and-css-c0p)
+**Platform**: [Scrimba.com](https://scrimba.com/) - Interactive coding tutorials
 
 ---
 
